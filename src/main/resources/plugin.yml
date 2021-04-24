@@ -1,0 +1,9 @@
+name: MobLookMultiply
+version: ${project.version}
+main: me.swipez.moblookmultiply.MobLookMultiply
+api-version: 1.16
+authors: [notnotnotswipez]
+commands:
+  moblook:
+    usage: /moblook <start/stop>
+    description: Starts and stops the mob look challenge!
